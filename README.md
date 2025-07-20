@@ -31,5 +31,5 @@ You can contribute by adding entries, helping others learn your language, or jus
 
 ---
 
-If you’re working on open source and need localization help, or just want to ask something about technologies and our work — feel free to reach out!
+If you’re working on open-source projects and need localization help, or just want to ask something about technologies or our work, feel free to reach out!
 
