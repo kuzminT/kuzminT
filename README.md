@@ -1,9 +1,3 @@
-# About me
-A  software engineer with over 10 years of experience. For these years I tried many different stacks and languages (js, php, python, go), but for several last years my main language is Go.
-Love open source and try to contribute to different projects and do something useful and nice. 
-Recently I'm one of the engineers in [Localit team](). We created a [wola.io](https://wola.io/) big dictionary and language community for thousands people. You can visit website or use mobile applications (for both Android and IOS). Wola has chat applications, achievements, competiotions and tasks, favorite words. You can participate in improvent of dictionary, talk with people studing other languages, as well as you, and help them, learn from native speakers, add new words, examples, and more.
-Also we created [localit](https://github.com/localit-io), modern, fancy and fast translation management system, which could help you localize and translate you websites or applcations. Pay attention that it propose **advanced plan for open source for free** (FOSS). We would happy to help you with github/gitlab integrations: all plans include it from the very beggining also without payments. 
-
 # 👋 About Me
 
 I’m a software engineer with over 10 years of experience in web development and system design. Over the years, I’ve worked with a wide variety of languages and technologies — from JavaScript, PHP, and Python to my current favorite and main language: **Go**.
@@ -14,7 +8,7 @@ I’m passionate about open source and always looking for ways to contribute to 
 
 ### 🚀 What I'm Working On
 
-#### [Localit](https://github.com/localit-io)
+#### [Localit](https://localit.io)
 
 An open-source-friendly **translation management system (TMS)** designed to simplify localization for developers and translators. It features:
 
